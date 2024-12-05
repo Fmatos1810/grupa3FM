@@ -110,4 +110,3 @@ function toggleLeftDrawer () {
   leftDrawerOpen.value = !leftDrawerOpen.value
 }
 </script>
-SELECT *FROM biljke WHERE vrsta = 'određena_vrsta' AND cijena <= 5;
